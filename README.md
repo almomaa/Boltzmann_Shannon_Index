@@ -116,8 +116,8 @@ The BSI computation involves three main steps:
 ## Interpretation
 
 - **BSI ≈ 1.0**: Excellent clustering with well-separated, balanced clusters
-- **BSI ≈ 0.5-0.8**: Good clustering quality
-- **BSI < 0.5**: Poor clustering with overlapping or highly imbalanced clusters
+- **BSI ≈ 0.7-0.8**: Good clustering quality
+- **BSI < 0.7**: Poor clustering with overlapping or highly imbalanced clusters
 - **BSI = 0.0**: Degenerate case (all clusters are empty or identical)
 
 ## Project Structure
@@ -151,9 +151,9 @@ If you use the Boltzmann-Shannon Index in your research, please cite the associa
 ```bibtex
 @article{almomani2025boltzmann,
   title={Boltzmann-Shannon Index: An Information-Theoretic Approach to Clustering Quality},
-  author={AlMomani, Abd AlRahman Rasheed},
-  year={2025},
-  journal={[Journal/Conference Name]}
+  author={},
+  year={},
+  journal={}
 }
 ```
 
